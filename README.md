@@ -123,7 +123,7 @@ This project includes **interactive dashboards** for:
 ---
 
 ## 🚀 How to Use  
-1. Download the **Power BI file**: [Logistics Project.pbix](Logistics%20Project.pbix)  
+1. Download the **Power BI file**: [Logistics Project.pbix](https://github.com/Eden1029/PowerBI_LogisticsProject/blob/main/Logostics%20Project/Logistics%20Project.pbix)  
 2. Open it in **Power BI Desktop**.  
 3. Explore different **dashboards & insights**.  
 
