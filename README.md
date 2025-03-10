@@ -68,7 +68,7 @@ The analysis uncovers **regional sales performance, profit trends, shipping dela
 | **Same Day**       | 5.27%   | **1.0 day** (Fastest) |  
 
 **🔹 Observations:**  
-- **Over 60% of shipments use Standard Class**, which is **also the slowest**.  
+- **Approximately 60% of shipments use Standard Class**, which is **also the slowest**.  
 - **Faster shipping options (First Class & Same Day) are used in high-value orders but make up < 25% of total orders.**  
 - **Reducing processing time in slow-performing states could improve overall delivery efficiency.**  
 
