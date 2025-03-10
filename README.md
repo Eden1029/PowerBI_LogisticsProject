@@ -137,6 +137,6 @@ This project includes **interactive dashboards** for:
 ---
 
 ## 🤝 Connect with Me  
-- 🔗 **[LinkedIn](www.linkedin.com/in/eden-nguyen)**  
+- 🔗 **LinkedIn:** www.linkedin.com/in/eden-nguyen 
 - 📧 **Email:** eden.vietnguyen@gmail.com  
 
