@@ -17,6 +17,13 @@ The analysis uncovers **regional sales performance, profit trends, shipping dela
 
 ---
 
+## 📐 Data Modeling
+Below is the star schema model used in this project:
+
+![Data Model](https://github.com/Eden1029/PowerBI_LogisticsProject/blob/main/Logistics%20Data%20Model.png)
+
+---
+
 ## 🔍 Key Insights & Trends  
 
 ### 1️⃣ **Sales & Profit Analysis**
