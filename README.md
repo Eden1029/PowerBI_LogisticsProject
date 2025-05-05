@@ -116,9 +116,7 @@ Below is the star schema model used in this project:
 This project includes **interactive dashboards** for:  
 1️⃣ **Sales & Profit Overview** – Track total revenue, profit margins, and yearly trends.  
 2️⃣ **Logistics Performance** – Analyze shipping delays, processing times, and ship modes.  
-3️⃣ **Customer & Product Insights** – Explore sales by customer segment, product category, and repeat purchases.  
-
-📌 **Sample Dashboard Preview:** *(Add Image or Link Here)*  
+3️⃣ **Customer & Product Insights** – Explore sales by customer segment, product category, and repeat purchases.   
 
 ---
 
